@@ -1,4 +1,4 @@
-# 📌 QR Code Portfolio Project
+# 📌 Dev Mode in Figma - QR Code Design
 
 🚀 **Live Demo:** [catalina-qr.netlify.app](https://catalina-qr.netlify.app/)
 
